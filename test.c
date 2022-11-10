@@ -6,6 +6,7 @@ int main() {
    scanf("%d %d", &a, &b);
  
    printf("Addition of two numbers %d and %d is %d\n",a,b,a+b);
+   printf("Subtraction of two numbers %d and %d is %d\n",a,b,a-b);
  
    return(0);
 }
